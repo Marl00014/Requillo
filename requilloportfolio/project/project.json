@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Chip Tech Website",
+        "tech": "HTML & CSS",
+        "image": "./assets/img/project/image2.jfif",
+        "desc":"This is my first project. I Learn in School to make form website using HTML & CSS",
+        "links": {
+          
+        }
+    },
+    {
+        "title": "Learn Code Website",
+        "tech": "HTML, CSS, & BOOTSTRAP",
+        "image": "./assets/img/project/projectSko.jfif",
+        "desc":"This is my for our project in 2nd year submission.",
+        "links": {
+          
+        }
+    },{
+        "title": "Scholarship Dashboard",
+        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "image": "./assets/img/project/image1.jfif",
+        "desc": "This is our project team Carmen Scholarship",
+        "links": {
+          
+        }
+    },{
+        "title": "Login Signup Shop-X Project",
+        "tech": "HTML, CSS, & BOOTSTRAP",
+        "image": "./assets/img/project/image3.jfif",
+        "desc": "This is our SHOP X Project in 2nd year ",
+        "links": {
+           
+        }
+    }
+]

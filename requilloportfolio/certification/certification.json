@@ -1,0 +1,11 @@
+[
+  {
+        "name": "Cisco Networking Academy",
+        "by": "Cisco Introduction to Pocket Tracer",
+        "image": "./certification/Netacad.png.jfif",
+        "category":"Networking",
+        "links": {
+            "credentials": "https://www.netacad.com/portal/faq-page"
+        }
+    }
+]
